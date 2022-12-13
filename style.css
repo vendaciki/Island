@@ -397,13 +397,6 @@ footer, footer a {
     .covidet p {
         margin: 20px 50px 20px 200px;    
     }
-    
-    .hrcovidet {
-        border: 0;
-        border-bottom: 4px solid rgb(106, 142, 240);
-        width: 100px;
-        margin-left: 170px; 
-    }
 
     .galerie {
         display: flex;
